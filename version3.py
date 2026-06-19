@@ -57,7 +57,9 @@ def update(frame):
     if frame == 100:
         stress += 0.4
 
-
+    #randomly relax sometimes too-- have a shot of vodka
+    if frame % 20 == 0:
+        stress -= 0.03
 
     #4 neighbour function
     for i in range(N):
