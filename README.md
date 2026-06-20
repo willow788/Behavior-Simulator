@@ -9,10 +9,10 @@ Highlights
 - A networked version (version3) where agents have explicit connections (friends) and the average stress trend is plotted.
 
 Screenshots
-- Main UI / animation: ![Simulator screenshot](https://raw.githubusercontent.com/willow788/Behavior-Simulator/main/screenshot.png)
+- Main UI / animation: ![Simulator screenshot](https://raw.githubusercontent.com/willow788/Behavior-Simulator/main/demo/screenshot.png)
 - Version 2 demo: ![Version 2 demo](https://raw.githubusercontent.com/willow788/Behavior-Simulator/main/vers2demo.png.png)
-- Version 3 demo: ![Version 3 demo](https://raw.githubusercontent.com/willow788/Behavior-Simulator/main/Version3demo.png.png)
-- Average stress trend: ![Stress mean](https://raw.githubusercontent.com/willow788/Behavior-Simulator/main/stress_mean.png)
+- Version 3 demo: ![Version 3 demo](https://raw.githubusercontent.com/willow788/Behavior-Simulator/main/demo/Version3demo.png.png)
+- Average stress trend: ![Stress mean](https://raw.githubusercontent.com/willow788/Behavior-Simulator/main/demo/stress_mean.png)
 
 Table of contents
 - Overview
