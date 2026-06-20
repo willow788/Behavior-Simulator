@@ -112,11 +112,7 @@ Troubleshooting
 ---------------
 - If the matplotlib window does not appear, ensure you run the scripts in an environment that supports GUI display (local machine). For headless environments, consider saving frames or using a non-interactive backend (Agg) and saving animations to file.
 - If the animation is slow: decrease the interval value in FuncAnimation or reduce N.
-- If you see import errors, ensure numpy and matplotlib are installed in the active Python environment.
-
-License
--------
-Add a license of your choice (MIT, Apache, etc.). Currently none specified in the repo. If you want, we can add an MIT license file.
+- If you see import errors, ensure numpy and matplotlib are installed in the active device.
 
 Contributing
 ------------
